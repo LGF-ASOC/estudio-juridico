@@ -1,6 +1,6 @@
 // Configuración del cliente de Contentful
-const SPACE_ID = '3mri9ker63ic';
-const ACCESS_TOKEN = 'ibMkDqRuhvcilSoRyZD8np_QgNBumlJBE_CL7Mk-dKE';
+const SPACE_ID = 'wyf2s0ghneqe';
+const ACCESS_TOKEN = 'bv3LvJSPiky12oLK6mMJBqNCXlopcRZCC0xNJoWCU20';
 
 const client = window.contentful.createClient({
   space: SPACE_ID,
