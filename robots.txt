@@ -1,5 +1,4 @@
 User-agent: *
 Allow: /
- 
+
 Sitemap: https://lgf-asoc.github.io/estudio-juridico/sitemap.xml
- 
